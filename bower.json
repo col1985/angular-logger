@@ -1,0 +1,24 @@
+{
+  "name": "angular-logger",
+  "version": "0.0.1",
+  "authors": [
+    "Colum Bennett <col1985@gmail.com>"
+  ],
+  "description": "angular logger module",
+  "main": "index.js",
+  "keywords": [
+    "angular",
+    "logger"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.26"
+  }
+}
